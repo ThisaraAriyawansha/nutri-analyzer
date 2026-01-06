@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vegan Lentil Curry",
+    "ingredients": [
+      {
+        "name": "lentils",
+        "quantity": "200g",
+        "calories": 230
+      }
+    ],
+    "category": "Vegan"
+  }
+]
